@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AlanRobbo
-- 👀 I’m interested in VB, lua, Html, Css
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- i am interested in Lua
+- i am interested in VBScript
+- i am interested in HTML
+- i am interested in CSS
+- 
 
 <!---
 AlanRobbo/AlanRobbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
