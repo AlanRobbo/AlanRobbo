@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlanRobbo
+- i am very interested in Excel VBA and File Manipulation.
 - i am interested in Lua
 - i am interested in VBScript
 - i am interested in HTML
